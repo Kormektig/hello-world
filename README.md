@@ -1,2 +1,7 @@
 # hello-world
-testing repository hihi
+
+Dina is a cute dog
+
+Horses are nice when they are not fat
+
+I love apple juice
